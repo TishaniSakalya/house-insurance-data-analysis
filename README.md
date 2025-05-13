@@ -15,7 +15,7 @@ A complete machine learning pipeline for detecting fraudulent insurance claims u
 ## 📁 Structure
 - `/scripts/` – MATLAB scripts for analysis and modeling
 - `/data/` – Includes dataset 
-- `/reports/` – Final report and presentation slides
+- `/report/` – Final report and presentation slides
 
 ## ⚙️ Tools Used
 - MATLAB 2015
